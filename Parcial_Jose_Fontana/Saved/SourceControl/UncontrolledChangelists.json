@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"F:/GitHub/Parcial_1_Jose_Alberto_Fontana/Parcial_Jose_Fontana/Content/Nivel/Primer_Parcial.umap",
+				"F:/GitHub/Parcial_1_Jose_Alberto_Fontana/Parcial_Jose_Fontana/Content/Blueprint/Player.uasset",
+				"F:/GitHub/Parcial_1_Jose_Alberto_Fontana/Parcial_Jose_Fontana/Content/Blueprint/Enemy.uasset",
+				"F:/GitHub/Parcial_1_Jose_Alberto_Fontana/Parcial_Jose_Fontana/Content/Blueprint/BALA.uasset"
+			]
+		}
+	]
+}
